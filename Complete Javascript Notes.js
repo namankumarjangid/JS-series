@@ -1400,12 +1400,6 @@
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
-
-
 
 
 
@@ -2411,7 +2405,7 @@
 
 
 
-// 2️⃣ What is this Object?
+// 2️⃣ What is "this" Object? =>
 
 // The definition  of "this" object is that it contain the current context. 
 
